@@ -20,7 +20,7 @@
             science. It's an interdisciplinary major that's perfect for my diverse interests in economics,
             healthcare, and computer science.</p>
 
-<p>In my spare time, you can usually find me <a href="/blog/">reading</a>, <a href="/projects/">coding</a>, or swimming.
+<p>In my spare time, you can usually find me <a href="https://www.brandonssandbox.com/blog/">reading</a>, <a href="https://www.brandonssandbox.com/projects/">coding</a>, or biking.
             I also love listening to podcasts—I highly recommend
             <a href="https://www.npr.org/sections/money/" target="_blank">Planet Money</a>,
             <a href="https://80000hours.org/podcast/" target="_blank">80,000 Hours</a>,
