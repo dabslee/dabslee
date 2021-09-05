@@ -16,7 +16,7 @@
 
 ## 📘 About Me
 <p>I'm Brandon Lee, a Princeton undergrad majoring in "<a href="https://orfe.princeton.edu/" target="_blank">Operations
-            Research and Financial Engineering</a>,"—a mix of data science, probabilistic modeling, and decision
+            Research and Financial Engineering</a>," a mix of data science, probabilistic modeling, and decision
             science. It's an interdisciplinary major that's perfect for my diverse interests in economics,
             healthcare, and computer science.</p>
 
