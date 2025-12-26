@@ -15,10 +15,8 @@
 </div>
 
 ## 📘 About Me
-<p>I'm Brandon Lee, a Princeton undergrad majoring in "<a href="https://orfe.princeton.edu/" target="_blank">Operations
-            Research and Financial Engineering</a>," a mix of data science, probabilistic modeling, and decision
-            science. It's an interdisciplinary major that's perfect for my diverse interests in economics,
-            healthcare, and computer science.</p>
+<p>I'm Brandon Lee. Hailing from Chicago IL, I graduated from Princeton University in 2024, where I majored in "<a href="https://orfe.princeton.edu/" target="_blank">Operations
+            Research and Financial Engineering</a>" and minored in "Statistics and Machine Learning. Since then, I've been working as a corporate strategy analyst at Planet Networks, a high-speed fiber Internet provider.</p>
 
 <p>In my spare time, you can usually find me <a href="https://www.brandonssandbox.com/blog/">reading</a>, <a href="https://www.brandonssandbox.com/projects/">coding</a>, or biking.
             I also love listening to podcasts—I highly recommend
