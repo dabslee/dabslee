@@ -28,8 +28,7 @@
 
 
 ## 📊 Profile stats
-[![repositories - 17](https://img.shields.io/badge/repositories-17-blue)](https://github.com/dabslee?tab=repositories)
-[![all-time contributions - 800+](https://img.shields.io/badge/all--time_contributions-800+-blue)](https://github.com/dabslee?tab=repositories)
+[![repositories - 48](https://img.shields.io/badge/repositories-48-blue)](https://github.com/dabslee?tab=repositories)
+[![all-time contributions - 3600+](https://img.shields.io/badge/all--time_contributions-3600+-blue)](https://github.com/dabslee?tab=repositories)
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=dabslee&bg_color=80808020&hide_title=true&count_private=true&hide_border=true&text_color=808080" height="150"></img>
-<img src="https://github-readme-stats-fast.vercel.app/api?username=dabslee&layout=compact&bg_color=80808020&hide_title=true&count_private=true&hide_border=true&text_color=808080" height="150"></img>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=dabslee&bg_color=80808020&hide_title=true&count_private=true&hide_border=true&text_color=808080&rank_icon=percentile" height="150"></img>
